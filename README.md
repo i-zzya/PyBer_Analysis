@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-For this project, we teamed up with Omar
+For this project, we teamed up with Omar to create a summary DataFrame of ride-sharing data and by the type of city (i.e urban, rural). We'll be making mulitple line graphs the help stakeholders at Pyber visualize how fares differ by each city type on a weekly basis. 
 
 
 Results:
