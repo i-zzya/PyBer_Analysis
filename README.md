@@ -16,4 +16,5 @@ Urban cities reached $39,854.38 in total Fares with 1625 rides getting an averag
 ![summary pyber](https://user-images.githubusercontent.com/99618784/161389091-ae402349-002c-4c63-aee3-7b6675b628be.PNG)
 
 
-## Recommandations: 
+## Recommendations: 
+We recommend focusing on Suburan cities as far as incentives to push more for more drivers and riders. The numbers are there to maximize profits. If theres a holiday or special event near by Rural cities, incentivize riders and drivers to use Pyber instead. 
