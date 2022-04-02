@@ -16,7 +16,4 @@ Urban cities reached $39,854.38 in total Fares with 1625 rides getting an averag
 ![summary pyber](https://user-images.githubusercontent.com/99618784/161389091-ae402349-002c-4c63-aee3-7b6675b628be.PNG)
 
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+## Recommandations: 
